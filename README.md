@@ -77,8 +77,7 @@ A cloud computing project focused on hosting a static website using Azure Storag
 | Role | Organization | Focus Area |
 |------|--------------|------------|
 | 📊 **Data Science & Analytics Intern** | **WHEEL TRIX** | Data analysis, data preprocessing and deriving actionable insights |
-|------|--------------|------------|
-| 🤖 AI / ML / Python Trainee |Brainic Academy | Hands-on training in AI, Machine Learning and Python with mentor-guided projects and practical assignments |
+| 🤖 AI / ML / Python Trainee |**Brainic Academy** | Hands-on training in AI, Machine Learning and Python with mentor-guided projects and practical assignments |
 
 
 ---
@@ -107,19 +106,6 @@ A cloud computing project focused on hosting a static website using Azure Storag
 ## 🎯 Career Goal
 
 My goal is to become an **AI/ML Engineer** and build intelligent, scalable and practical AI solutions that solve real-world problems.
-
----
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=derasathwikareddy06-star&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=derasathwikareddy06-star&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=derasathwikareddy06-star&theme=tokyonight&hide_border=true" width="70%" />
-</p>
 
 ---
 
