@@ -11,21 +11,20 @@ sathwika-dera-63524a420
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)]derasathwikareddy06@gmail.com
 
 ---
-
 ## 👩‍💻 About Me
 
-- 🎓 CSE (AI & ML) Student
-- 🤖 Passionate about Artificial Intelligence and Machine Learning
-- 🐍 Interested in Python and Machine Learning
-- 📊 Exploring Data Analysis and Natural Language Processing
-- ✨ Learning Generative AI and Deep Learning
-- 🚀 Building AI/ML projects for my portfolio
-- 👩‍💼 Chair of IEEE Student Branch
-- ☁️ Exploring Cloud Technologies
-- 🎯 Aspiring to become an AI/ML Engineer
-
----
-
+I am a **B.Tech student in CSE (AI & ML)** at **Gurunanak Institute of Technology**, passionate about building intelligent and practical technology solutions. My interests span **Artificial Intelligence, Machine Learning, Data Analysis, NLP, and Full-Stack Development**, with a focus on applying technology to real-world problems.
+I enjoy learning new technologies, developing projects, and continuously improving my technical skills. I am also actively involved in student leadership as the **Chair of the IEEE Student Branch**, where I contribute to organizing technical activities and engaging students in technology-driven initiatives.🤖 Passionate about Artificial Intelligence & Machine Learning  
+🐍 Interested in Python, Machine Learning and Data Analysis 🔤 Exploring Natural Language Processing & Generative AI 🚀 Building practical AI/ML projects for my portfolio  
+💼 Completed/Currently pursuing AI/ML & Python training at Brainic Academy 
+### 🎓 Education & Profile
+🎓 **B.Tech – CSE (AI & ML)**  
+🏫 **College:** Gurunanak Institute of Technology  
+📅 **Graduation:** 2027  
+📚 **Intermediate:** Narayana Junior College  
+📅 **Year:** 2023
+🏫 **School:** St. Josephs Covent High School  
+📅 **Year:** 2021
 ## 🛠️ Tech Stack
 
 | Category | Technologies |
