@@ -84,11 +84,13 @@ To become an **AI/ML Engineer** and build intelligent, scalable and practical AI
 
 ## 🤝 Connect With Me
 
-💼 LinkedIn: [LinkedIn](YOUR_LINKEDIN_URL)
+💼 LinkedIn: www.linkedin.com/in/
+sathwika-dera-63524a420
+
 
 🐙 GitHub: [GitHub](YOUR_GITHUB_URL)
 
-📧 Email: YOUR_EMAIL
+📧 Email: derasathwikareddy06@gmail.com
 
 ---
 
