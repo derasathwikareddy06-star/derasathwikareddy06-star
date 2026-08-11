@@ -7,7 +7,7 @@ I'm a Computer Science student specializing in Artificial Intelligence & Machine
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)] www.linkedin.com/in/
 sathwika-dera-63524a420
 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/derasathwikareddy06-star)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)]https://github.com/derasathwikareddy06-star
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)]derasathwikareddy06@gmail.com
 
 ---
@@ -70,15 +70,19 @@ A cloud computing project focused on hosting a static website using Azure Storag
 **Tech Stack:**  
 `Microsoft Azure` `HTML` `CSS` `GitHub`
 
-🔗 [View Repository](YOUR_AZURE_REPOSITORY)
-
 ---
 
 ## 💼 Internship Experience
 
 | Role | Organization | Focus Area |
 |------|--------------|------------|
-| 📊 **Data Science & Analytics Intern** | **Your Organization** | Data analysis, data preprocessing and deriving actionable insights |
+| 📊 **Data Science & Analytics Intern** | **WHEEL TRIX** | Data analysis, data preprocessing and deriving actionable insights |
+## 💼 Internship & Training Experience
+
+| Role | Organization | Focus Area |
+|------|--------------|------------|
+| 🤖 AI / ML / Python Trainee |Brainic Academy | Hands-on training in AI, Machine Learning and Python with mentor-guided projects and practical assignments |
+
 
 ---
 
@@ -109,19 +113,15 @@ My goal is to become an **AI/ML Engineer** and build intelligent, scalable and p
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=derasathwikareddy06-star&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=derasathwikareddy06-star&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=derasathwikareddy06-star&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
----
-
-## 🔥 GitHub Streak
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=derasathwikareddy06-star&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=derasathwikareddy06-star&theme=tokyonight&hide_border=true" width="70%" />
 </p>
 
 ---
@@ -143,6 +143,14 @@ My goal is to become an **AI/ML Engineer** and build intelligent, scalable and p
 </a>
 
 </p>
+## 🤝 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)] www.linkedin.com/in/
+sathwika-dera-63524a420
+
+
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)]https://github.com/derasathwikareddy06-star
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)]derasathwikareddy06@gmail.com
 
 ---
 
