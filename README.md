@@ -88,7 +88,7 @@ To become an **AI/ML Engineer** and build intelligent, scalable and practical AI
 sathwika-dera-63524a420
 
 
-🐙 GitHub: [GitHub](YOUR_GITHUB_URL)
+🐙 GitHub: https://github.com/derasathwikareddy06-star
 
 📧 Email: derasathwikareddy06@gmail.com
 
