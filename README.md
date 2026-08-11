@@ -48,7 +48,7 @@ An AI-powered application that automatically summarizes long text into concise a
 **Tech Stack:**  
 `Python` `NLP` `FastAPI` `Machine Learning`
 
-🔗 [View Repository](YOUR_TEXT_SUMMARIZATION_REPOSITORY)
+🔗 [View Repository](httpa://github.com/derasathwikareddy06-star/Text-Summarixation-ai)
 
 ---
 
@@ -77,9 +77,6 @@ A cloud computing project focused on hosting a static website using Azure Storag
 | Role | Organization | Focus Area |
 |------|--------------|------------|
 | 📊 **Data Science & Analytics Intern** | **WHEEL TRIX** | Data analysis, data preprocessing and deriving actionable insights |
-## 💼 Internship & Training Experience
-
-| Role | Organization | Focus Area |
 |------|--------------|------------|
 | 🤖 AI / ML / Python Trainee |Brainic Academy | Hands-on training in AI, Machine Learning and Python with mentor-guided projects and practical assignments |
 
