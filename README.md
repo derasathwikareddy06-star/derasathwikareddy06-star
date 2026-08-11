@@ -23,6 +23,7 @@ I enjoy learning new technologies, developing projects, and continuously improvi
 📅 **Graduation:** 2027  
 📚 **Intermediate:** Narayana Junior College  
 📅 **Year:** 2023
+
 🏫 **School:** St. Josephs Covent High School  
 📅 **Year:** 2021
 ## 🛠️ Tech Stack
