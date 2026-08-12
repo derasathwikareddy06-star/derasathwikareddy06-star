@@ -48,7 +48,7 @@ An AI-powered application that automatically summarizes long text into concise a
 **Tech Stack:**  
 `Python` `NLP` `FastAPI` `Machine Learning`
 
-🔗 [View Repository](httpa://github.com/derasathwikareddy06-star/Text-Summarixation-ai)
+🔗 [View Repository] https://github.com/derasathwikareddy06-star/Text-Summarization-System
 
 ---
 
