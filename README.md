@@ -63,15 +63,6 @@ A web-based shopping application developed using modern web technologies with a 
 
 ---
 
-### ☁️ Static Website Hosting using Azure
-
-A cloud computing project focused on hosting a static website using Azure Storage.
-
-**Tech Stack:**  
-`Microsoft Azure` `HTML` `CSS` `GitHub`
-
----
-
 ## 💼 Internship Experience
 
 | Role | Organization | Focus Area |
