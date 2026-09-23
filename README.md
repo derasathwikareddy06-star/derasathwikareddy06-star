@@ -40,7 +40,13 @@ I enjoy learning new technologies, developing projects, and continuously improvi
 ---
 
 ## 🚀 Featured Projects
+### 🎬 Movie Sentiment Analysis
 
+A Machine Learning and Natural Language Processing project that analyzes movie reviews and classifies their sentiment as positive or negative.
+
+The project includes data preprocessing, text cleaning, feature extraction, model training, and sentiment prediction.
+
+Tech: Python NLP Pandas NumPy Scikit-learn Machine Learning
 ### 📝 Text Summarization AI
 
 An AI-powered application that automatically summarizes long text into concise and meaningful content.
@@ -51,6 +57,11 @@ An AI-powered application that automatically summarizes long text into concise a
 🔗 [View Repository] https://github.com/derasathwikareddy06-star/Text-Summarization-System
 
 ---
+### 💻 Personal Portfolio Website
+
+A personal portfolio website showcasing my skills, projects, achievements, leadership experience, and contact information.
+
+Tech: HTML CSS JavaScript
 
 ### 🛒 Little Blue Cart
 
