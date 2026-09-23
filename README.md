@@ -47,6 +47,9 @@ A Machine Learning and Natural Language Processing project that analyzes movie r
 The project includes data preprocessing, text cleaning, feature extraction, model training, and sentiment prediction.
 
 Tech: Python NLP Pandas NumPy Scikit-learn Machine Learning
+🔗 [View Repository] https://github.com/derasathwikareddy06-star/IBDB-Movie-Sentiment-Analysis
+
+---
 ### 📝 Text Summarization AI
 
 An AI-powered application that automatically summarizes long text into concise and meaningful content.
@@ -64,6 +67,7 @@ A personal portfolio website showcasing my skills, projects, achievements, leade
 Tech: HTML CSS JavaScript
 🔗 [View Repository] https://github.com/derasathwikareddy06-star/portfolio-website
 
+---
 ### 🛒 Little Blue Cart
 
 A web-based shopping application developed using modern web technologies with a simple and user-friendly interface.
