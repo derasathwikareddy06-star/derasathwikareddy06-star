@@ -85,7 +85,7 @@ A web-based shopping application developed using modern web technologies with a 
 An AI-powered web application that analyzes project ideas, finds similar existing projects, and provides suggestions to improve project ideas.
 
 Tech: Python Streamlit Sentence Transformers Pandas Scikit-learn
-🔗 [View Repository] 
+🔗 [View Repository] https://github.com/derasathwikareddy06-star/AI-Project-Idea-Validator
 
 
 ## 💼 Internship Experience
