@@ -86,8 +86,10 @@ An AI-powered web application that analyzes project ideas, finds similar existin
 
 **Tech Stack:**  
 Python Streamlit Sentence Transformers Pandas Scikit-learn
-🔗 [View Repository] https://github.com/derasathwikareddy06-star/AI-Project-Idea-Validator
 
+🔗[View Repository] https://github.com/derasathwikareddy06-star/AI-Project-Idea-Validator
+
+---
 
 ## 💼 Internship Experience
 
