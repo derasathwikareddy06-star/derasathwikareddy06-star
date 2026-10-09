@@ -80,6 +80,13 @@ A web-based shopping application developed using modern web technologies with a 
 🔗 [View Repository] https://github.com/derasathwikareddy06-star/Little-Blue-Cart
 
 ---
+💡 AI Project Idea Validator
+
+An AI-powered web application that analyzes project ideas, finds similar existing projects, and provides suggestions to improve project ideas.
+
+Tech: Python Streamlit Sentence Transformers Pandas Scikit-learn
+🔗 [View Repository] 
+
 
 ## 💼 Internship Experience
 
